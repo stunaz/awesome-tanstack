@@ -15,6 +15,9 @@ This is a collection of resources & blogs for **Tanstack Libraries**.
 ## Starter Kit & Boilerplate
 
 - [Start] [TanStack Start QuickStart](https://clerk.com/docs/quickstarts/tanstack-start) - beta
+- [Start] [TanStack Start starter with shadcn/ui, tRPC, Drizzle and Lucia-Auth](https://github.com/ally-ahmed/tss-app)
+- [Start] [A minimal starter template for TanStack Start with Biome, Tailwind, Drizzle, and Lucia](https://github.com/dotnize/tanstarter)
+- [Start] [Tanstack Start with Auth.js](https://github.com/DavidRouyer/start-authjs-basic)
 
 ## Blogs
 
