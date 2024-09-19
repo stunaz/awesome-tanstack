@@ -23,3 +23,4 @@ This is a collection of resources & blogs for **Tanstack Libraries**.
 
 - [Router] [Introducing TanStack Router](https://frontendmasters.com/blog/introducing-tanstack-router/#toc-11)
 - [Router] [A milestone for TypeScript Performance in TanStack Router](https://tanstack.com/blog/tanstack-router-typescript-performance)
+- [Query] [How Infinite Queries work](https://tkdodo.eu/blog/how-infinite-queries-work)
