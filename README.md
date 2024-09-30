@@ -18,6 +18,7 @@ This is a collection of resources & blogs for **Tanstack Libraries**.
 - [Start] [TanStack Start starter with shadcn/ui, tRPC, Drizzle and Lucia-Auth](https://github.com/ally-ahmed/tss-app)
 - [Start] [A minimal starter template for TanStack Start with Biome, Tailwind, Drizzle, and Lucia](https://github.com/dotnize/tanstarter)
 - [Start] [Tanstack Start with Auth.js](https://github.com/DavidRouyer/start-authjs-basic)
+- [Start] [A minimal example of Tanstack Start running on Cloudflare Workers with SSR (not cloudflare pages)](https://github.com/timoconnellaus/tanstack-start-workers)
 
 ## Blogs
 
