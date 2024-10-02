@@ -20,6 +20,10 @@ This is a collection of resources & blogs for **Tanstack Libraries**.
 - [Start] [Tanstack Start with Auth.js](https://github.com/DavidRouyer/start-authjs-basic)
 - [Start] [A minimal example of Tanstack Start running on Cloudflare Workers with SSR (not cloudflare pages)](https://github.com/timoconnellaus/tanstack-start-workers)
 
+## Videos
+
+- [Start] [Next.js has real competition now](https://www.youtube.com/watch?v=nz43Vuy9_dE)
+
 ## Blogs
 
 - [Router] [Introducing TanStack Router](https://frontendmasters.com/blog/introducing-tanstack-router/#toc-11)
