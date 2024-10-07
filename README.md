@@ -19,6 +19,7 @@ This is a collection of resources & blogs for **Tanstack Libraries**.
 - [Start] [A minimal starter template for TanStack Start with Biome, Tailwind, Drizzle, and Lucia](https://github.com/dotnize/tanstarter)
 - [Start] [Tanstack Start with Auth.js](https://github.com/DavidRouyer/start-authjs-basic)
 - [Start] [A minimal example of Tanstack Start running on Cloudflare Workers with SSR (not cloudflare pages)](https://github.com/timoconnellaus/tanstack-start-workers)
+- [Start] [Better-auth integration](https://github.com/better-auth/better-auth/tree/tanstack/examples/tanstack-example)
 
 ## Videos
 
